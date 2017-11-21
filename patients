@@ -7,7 +7,7 @@
   "Forms": [{
     "FormID": "3",
     "Title": "Medical Questionnaire",
-    "Url": "https://support.gcdtech.com/Projects/coincidental/med-questionnaire.pdf",
+    "Url": "https://coincidental-apps.github.io/med-questionnaire.pdf",
     "AdditionalFields": [{
       "FieldType": "signature",
       "Page": 0,
@@ -18,7 +18,7 @@
   {
     "FormID": "8876",
     "Title": "Medical Card Report",
-    "Url": "https://support.gcdtech.com/Projects/coincidental/med-card-report.pdf",
+    "Url": "https://coincidental-apps.github.io/med-card-report.pdf",
     "AdditionalFields": [{
       "FieldType": "signature",
       "Page": 0,
@@ -36,7 +36,7 @@
   "Forms": [{
     "FormID": "3",
     "Title": "Medical Questionnaire",
-    "Url": "https://support.gcdtech.com/Projects/coincidental/med-questionnaire.pdf",
+    "Url": "https://coincidental-apps.github.io/med-questionnaire.pdf",
     "AdditionalFields": [{
       "FieldType": "signature",
       "Page": 0,
@@ -47,7 +47,7 @@
   {
     "FormID": "8876",
     "Title": "Medical Card Report",
-    "Url": "https://support.gcdtech.com/Projects/coincidental/med-card-report.pdf",
+    "Url": "https://coincidental-apps.github.io/med-card-report.pdf",
     "AdditionalFields": [{
       "FieldType": "signature",
       "Page": 0,
