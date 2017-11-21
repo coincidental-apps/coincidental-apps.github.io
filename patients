@@ -5,7 +5,7 @@
   "DateOfBirth": "1977-02-13",
   "DentistName": "Dr A Dawson",
   "Forms": [{
-    "FormID": "3",
+    "FormID": "1",
     "Title": "Medical Questionnaire",
     "Url": "https://coincidental-apps.github.io/med-questionnaire.pdf",
     "AdditionalFields": [{
@@ -16,7 +16,7 @@
     }]
   },  
   {
-    "FormID": "8876",
+    "FormID": "2",
     "Title": "Medical Card Report",
     "Url": "https://coincidental-apps.github.io/med-card-report.pdf",
     "AdditionalFields": [{
@@ -45,7 +45,7 @@
     }]
   },  
   {
-    "FormID": "8876",
+    "FormID": "4",
     "Title": "Medical Card Report",
     "Url": "https://coincidental-apps.github.io/med-card-report.pdf",
     "AdditionalFields": [{
